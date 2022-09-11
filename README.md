@@ -10,4 +10,4 @@ My personal interests include the US options market, technical and fundamental s
 <br/>◦ 🔭 I’m currently working on Kaggle's "Big Data Derby 2022"
 <br/>◦ 🌱 I’m currently learning 'Computer Vision'
 <br/>◦ 📫 How to reach me: aleksandr.gould@gmail.com
-<br/>◦ ⚡ Fun fact: "Small improvements in the molecular markers of cellular aging seem to emerge with just thirty hours of [mindfullness] practice."
+<br/>◦ ⚡ Fun fact: "Small improvements in the molecular markers of cellular aging seem to emerge with just thirty hours of [mindfulness] practice."
