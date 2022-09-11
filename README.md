@@ -10,7 +10,7 @@ My personal interests include the US options market, technical and fundamental s
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aleksandrgould&show_icons=true&include_all_commits=true)](https://github.com/aleksandrgould/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrgould&layout=compact)](https://github.com/aleksandrgould/github-readme-stats)
 
-◦ 🔭 I’m currently working on Kaggle's "Big Data Derby 2022"
-◦ 🌱 I’m currently learning 'Computer Vision'
-◦ 📫 How to reach me: aleksandr.gould@gmail.com
-◦ ⚡ Fun fact: "Small improvements in the molecular markers of cellular aging seem to emerge with just thirty hours of [mindfullness] practice."
+<br/>◦ 🔭 I’m currently working on Kaggle's "Big Data Derby 2022"
+<br/>◦ 🌱 I’m currently learning 'Computer Vision'
+<br/>◦ 📫 How to reach me: aleksandr.gould@gmail.com
+<br/>◦ ⚡ Fun fact: "Small improvements in the molecular markers of cellular aging seem to emerge with just thirty hours of [mindfullness] practice."
