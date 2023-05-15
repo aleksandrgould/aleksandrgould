@@ -6,7 +6,7 @@
 
 My personal interests include the US options market, technical and fundamental security analysis, global trends in macroeconomics, finance, martial arts, fitness, and making music (piano, guitar, DAWs).</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1etSkPqu0N1Hc3DSyJhxzorN4jsdGC8SlU7eGEdZso8A/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
-<br/>◦ 🔭 I’m currently working on Kaggle's "Big Data Derby 2022"
+<br/>◦ 🔭 I’m currently working on Kaggle's "ICR - Identifying Age-Related Conditions"
 <br/>◦ 🌱 I’m currently learning 'Computer Vision'
 <br/>◦ 📫 How to reach me: aleksandr.gould@gmail.com
 <br/>◦ ⚡ Fun fact: "Small improvements in the molecular markers of cellular aging seem to emerge with just thirty hours of [mindfulness] practice."
